@@ -1,4 +1,4 @@
-168669465445569
+173609875033662
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -49546,6 +49546,13 @@ TerminalBlock_WAGO-804_RM7.5mm_3pol
 0
 0
 Tinkerplunk
+3M_8444-21A1-RK-TP
+<B>Plastic J-Leaded Chip Carrier</B>
+
+0
+44
+44
+Tinkerplunk
 3x2_RCA
 
 
@@ -49616,6 +49623,13 @@ HDMI_VERT_47659-1000
 22
 20
 Tinkerplunk
+Headphone_Jack_2.5mm_SJ1-3523N
+http://www.cui.com/product/resource/sj1-352xn-series.pdf
+
+0
+5
+5
+Tinkerplunk
 MALE_SCART
 
 
@@ -49671,6 +49685,13 @@ SNES_PLUG
 0
 12
 12
+Tinkerplunk
+TE_6364372-2
+
+
+0
+6
+6
 Tinkerplunk
 VGA
 15-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.29x1.98mm, pin-PCB-offset 8.35mm, distance of mounting holes 25mm, distance of mounting holes to PCB edge 10.889999999999999mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
