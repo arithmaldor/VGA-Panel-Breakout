@@ -7,6 +7,8 @@
  Part:
  10090929-S154VLF
 
+ PHOTOS ARE OF AN OLD NON-WORKING DESIGN AND ARE FOR REFERENCE ONLY!! The pin assignments were wrong on the first run.
+ 
 Licensed under CERN-OHL-S v2.
 
 You may redistribute and modify this documentation and make products
