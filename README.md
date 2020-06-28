@@ -2,7 +2,7 @@
  Quick solder adapter for VGA port.
 
  Inspired by a lost design by citrus3000psi. Snap the board in half, solder the VGA connector on (all but the bottom row), making sure the pads at the bottom face out.
- Push the other half of the PCB into the slot and solder the pins to the pads. Solder the pads together at 90 degree angles on the bottom. Attach wires from screw post(s) to pins labeled GND is desired.
+ Push the other half of the PCB into the slot and solder the pins to the pads. Solder the pads together at 90 degree angles on the bottom. Attach wires from screw post(s) to pins labeled GND if desired.
  
  Part:
  10090929-S154VLF
