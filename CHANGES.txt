@@ -1,2 +1,3 @@
 Date		Changes
 6/27/20		Initial Design
+7/15/20		Reduced insert tab by 0.2mm to better fit into the slot. Added gerber and design file for panel. Makes 30 sets of boards per panel.

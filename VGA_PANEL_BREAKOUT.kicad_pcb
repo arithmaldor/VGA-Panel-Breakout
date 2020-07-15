@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.5)-3")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.0)-1")
 
   (general
     (thickness 1.6)
@@ -62,7 +62,7 @@
     (mod_edge_width 0.12)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 2 3)
+    (pad_size 2.3 4)
     (pad_drill 0)
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
@@ -176,7 +176,7 @@
     )
   )
 
-  (module Measurement_Points:Measurement_Point_Square-SMD-Pad_Small (layer B.Cu) (tedit 5ED9E51F) (tstamp 5ED9E66D)
+  (module Measurement_Points:Measurement_Point_Square-SMD-Pad_Small (layer B.Cu) (tedit 5F0F1FFB) (tstamp 5ED9E66D)
     (at 166.5 109.05)
     (descr "Mesurement Point, Square, SMD Pad,  1.5mm x 1.5mm,")
     (tags "Mesurement Point Square SMD Pad 1.5x1.5mm")
@@ -191,7 +191,7 @@
     (fp_line (start 1.5 -2.25) (end -1.5 -2.25) (layer B.CrtYd) (width 0.05))
     (fp_line (start 1.5 2.25) (end 1.5 -2.25) (layer B.CrtYd) (width 0.05))
     (fp_line (start -1.5 2.25) (end 1.5 2.25) (layer B.CrtYd) (width 0.05))
-    (pad 1 smd rect (at 0 0) (size 2.5 4) (layers B.Cu B.Mask)
+    (pad 1 smd rect (at 0 0) (size 2.3 4) (layers B.Cu B.Mask)
       (net 1 GND))
   )
 
@@ -233,7 +233,7 @@
       (net 3 GREEN))
   )
 
-  (module Measurement_Points:Measurement_Point_Square-SMD-Pad_Small (layer B.Cu) (tedit 5EF6C8A2) (tstamp 5ED9E55E)
+  (module Measurement_Points:Measurement_Point_Square-SMD-Pad_Small (layer B.Cu) (tedit 5F0F1FEC) (tstamp 5ED9E55E)
     (at 156.75 109.05)
     (descr "Mesurement Point, Square, SMD Pad,  1.5mm x 1.5mm,")
     (tags "Mesurement Point Square SMD Pad 1.5x1.5mm")
@@ -248,7 +248,7 @@
     (fp_line (start 1.5 2.25) (end 1.5 -2.25) (layer B.CrtYd) (width 0.05))
     (fp_line (start 1.5 -2.25) (end -1.5 -2.25) (layer B.CrtYd) (width 0.05))
     (fp_line (start -1.5 -2.25) (end -1.5 2.25) (layer B.CrtYd) (width 0.05))
-    (pad 1 smd rect (at 0 0) (size 2.5 4) (layers B.Cu B.Mask)
+    (pad 1 smd rect (at 0 0) (size 2.3 4) (layers B.Cu B.Mask)
       (net 4 BLUE))
   )
 
@@ -699,10 +699,10 @@
   (gr_text "R  G  B  H  V" (at 162.8 105.9 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_line (start 169 109.45) (end 168 109.45) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E091))
-  (gr_line (start 168 109.45) (end 168 111.05) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E07B))
-  (gr_line (start 154 109.45) (end 155 109.45) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E079))
-  (gr_line (start 155 109.45) (end 155 111.05) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E063))
+  (gr_line (start 169 109.45) (end 167.9 109.45) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E091))
+  (gr_line (start 167.9 109.45) (end 167.9 111.05) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E07B))
+  (gr_line (start 154 109.45) (end 155.1 109.45) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E079))
+  (gr_line (start 155.1 109.45) (end 155.1 111.05) (layer Edge.Cuts) (width 0.05) (tstamp 5ED9E063))
   (gr_arc (start 154 100.275) (end 154 101.55) (angle -180) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 169 100.275) (end 169 99) (angle -180) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 157.75 100.275) (end 157.75 99) (angle -180) (layer Edge.Cuts) (width 0.05))
@@ -717,7 +717,7 @@
   (gr_line (start 169 90.5) (end 169 99) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 169 90.5) (end 154 90.5) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 169 109.45) (end 169 101.55) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 155 111.05) (end 168 111.05) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 155.1 111.05) (end 167.9 111.05) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 154 101.55) (end 154 109.45) (layer Edge.Cuts) (width 0.05))
 
   (segment (start 166.96 96) (end 162.38 96) (width 0.25) (layer F.Cu) (net 1))
