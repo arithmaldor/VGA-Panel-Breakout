@@ -18,3 +18,4 @@ WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
 AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-S v2
 for applicable conditions.
  
+Documentation licensed under CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
