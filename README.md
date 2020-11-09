@@ -20,4 +20,4 @@ for applicable conditions.
  
 Documentation licensed under CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-[<img src="https://tinkerplunk.files.wordpress.com/2020/11/oshw_mark_us000679.png">](https://certification.oshwa.org/us000679.html)
+[<img src="https://tinkerplunk.files.wordpress.com/2020/11/oshw_mark_us000679.png?w=768">](https://certification.oshwa.org/us000679.html)
